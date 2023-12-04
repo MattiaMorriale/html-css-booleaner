@@ -44,7 +44,7 @@ body{
 
 }
 
-span{
+.data{
 
     font-size: small;
 
@@ -56,3 +56,46 @@ span{
     margin: 0;
 
 }
+
+.testo-evidenziato{
+
+    background-color: yellow;
+
+}
+
+ul{
+
+    padding: 15px;
+
+}
+
+table{
+
+    border-spacing: 0;
+    width: 100%
+
+}
+
+ .colonna-25{
+
+    width: 25%;
+    background-color: rgb(107 163 225);
+    padding: 0;
+    text-align: justify;
+    color: white;
+
+ }
+
+ th{
+
+    text-align: justify;
+    color: white;
+    background-color: rgb(107 163 225);
+
+ }
+
+ .riga-alternata{
+
+background-color: #c4e3f0;
+
+ }
