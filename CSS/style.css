@@ -19,7 +19,40 @@ body{
 
     width: 250px;
     height: 200px;
-    margin-left: 10px;
+    margin-left: 8px;
     
+
+}
+
+#contenitore{
+
+    margin: 8px;
+
+}
+
+.autore{
+
+    color: grey;
+    margin-bottom: 20px;
+
+}
+
+#nome{
+
+    color: rgb(16, 130, 206);
+    font-size: medium;
+
+}
+
+span{
+
+    font-size: small;
+
+}
+
+.foto-tim{
+
+    font-size: x-small;
+    margin: 0;
 
 }
