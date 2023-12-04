@@ -30,7 +30,7 @@ body{
 
 }
 
-.autore{
+.intestazioni{
 
     color: grey;
     margin-bottom: 20px;
@@ -98,4 +98,28 @@ table{
 
 background-color: #c4e3f0;
 
+ }
+
+ .testo{
+
+    color: white;
+    padding: 10px;
+
+ }
+
+ .prima-immagine{
+
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    width: 200px;
+    height: 150px;
+
+ }
+
+ .seconda-immagine{
+
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    width: 200px;
+    height: 150px;
  }
